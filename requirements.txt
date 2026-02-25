@@ -1,4 +1,8 @@
 streamlit
 pandas
+<<<<<<< HEAD
 plotly
 requests
+=======
+plotly
+>>>>>>> f86465947588f02b6c90eeb89d0a5abaa535c165
