@@ -6,7 +6,7 @@ import requests
 import base64
 
 # --- 1. 页面基本配置 ---
-st.set_page_config(page_title="伊姐喂养日记", page_icon="🍼", layout="wide")
+st.set_page_config(page_title="宝宝喂养日记", page_icon="🍼", layout="wide")
 
 # 注入 CSS 样式
 st.markdown("""
